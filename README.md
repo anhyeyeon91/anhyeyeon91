@@ -18,7 +18,7 @@
   <br><br><br> -->
   
   
-  <h3>📚 My STACKS</h3>
+  <h3>📚 My STACKS 📚</h3>
 
 <div align=center> 
 <!--   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -64,7 +64,7 @@
 <!--   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> -->
   <br>
 </div>
-
+  <br>  <br>
   <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </p>
